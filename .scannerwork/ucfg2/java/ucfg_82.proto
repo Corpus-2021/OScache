@@ -1,0 +1,16 @@
+
+ccom.opensymphony.oscache.base.events.CachewideEvent#getCache()Lcom/opensymphony/oscache/base/Cache;^
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\CachewideEvent.java1 1("1*Œ
+1^
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\CachewideEvent.java2 2(ÿ
+’
+^
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\CachewideEvent.java2 2()
+%0#com.opensymphony.oscache.base.Cache"__id*B*@5
+3com.opensymphony.oscache.base.events.CachewideEvent"
+cache"ç
+^
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\CachewideEvent.java2 2(+
+)
+%0#com.opensymphony.oscache.base.CacheB75
+3com.opensymphony.oscache.base.events.CachewideEvent

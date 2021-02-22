@@ -1,0 +1,16 @@
+
+rcom.opensymphony.oscache.base.events.CacheMapAccessEvent#getCacheEntry()Lcom/opensymphony/oscache/base/CacheEntry;c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\CacheMapAccessEvent.java6 6(#"1*ì
+1c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\CacheMapAccessEvent.java7 7(ç
+ä
+c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\CacheMapAccessEvent.java7 7(.
+%0(com.opensymphony.oscache.base.CacheEntry"__id*G*E:
+8com.opensymphony.oscache.base.events.CacheMapAccessEvent"
+entry"—
+c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\CacheMapAccessEvent.java7 7(0
+.
+%0(com.opensymphony.oscache.base.CacheEntryB<:
+8com.opensymphony.oscache.base.events.CacheMapAccessEvent

@@ -1,0 +1,16 @@
+
+Icom.opensymphony.oscache.base.events.ScopeEvent#getDate()Ljava/util/Date;Z
+PC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\ScopeEvent.java= =("1*’
+1Z
+PC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\ScopeEvent.java> >(º
+·
+Z
+PC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\ScopeEvent.java> >(
+%0java.util.Date"__id*=*;1
+/com.opensymphony.oscache.base.events.ScopeEvent"
+date"t
+Z
+PC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\ScopeEvent.java> >(
+
+%0java.util.DateB31
+/com.opensymphony.oscache.base.events.ScopeEvent

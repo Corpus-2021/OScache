@@ -1,0 +1,21 @@
+
+2com.opensymphony.oscache.base.Cache#getCapacity()IP
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.java• •("1*¨
+1P
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.java– –(Ý
+Ú
+P
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.java– –(I
+%0Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache"__id*5*3%
+#com.opensymphony.oscache.base.Cache"
+
+cacheMap”‘
+P
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.java– –('	
+%1int"Tcom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache#getMaxEntries()I*K
+I
+%0Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache2getMaxEntries()"Z
+P
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.java– –((
+""B'%
+#com.opensymphony.oscache.base.Cache

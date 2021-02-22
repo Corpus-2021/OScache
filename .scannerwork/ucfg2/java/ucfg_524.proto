@@ -1,0 +1,82 @@
+
+^com.opensymphony.oscache.web.TestOscacheJsp#constructURL(Ljava/lang/String;)Ljava/lang/String;]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaž ž("6*Î
+3]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.java§ §(!»
+¸
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.java§ §('
+%4java.lang.String"__concat*
+
+basejava.lang.String*
+
+Urljava.lang.String¦
+£
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.java§ §('"
+constructedUrljava.lang.String"__id*
+
+%4java.lang.String*
+1*°
+4]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.java¤ ¤(§
+¤
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.java¤ ¤(!
+%3java.lang.String"__concat*
+
+basejava.lang.String*
+/œ
+™
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.java¤ ¤(!
+basejava.lang.String"__id*
+
+%3java.lang.String*
+3*Ï
+5]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.java£ £(âß
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.java£ £(#
+%2boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+basejava.lang.String*
+/2endsWith(Ljava/lang/String;)*
+3
+4*Þ
+6]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaŸ Ÿ(Ê
+Ç
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaŸ) Ÿ(<
+%0java.lang.String"__id*H*F-
++com.opensymphony.oscache.web.TestOscacheJsp"
+BASE_URL_SYSTEM_PRPî
+ë
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaŸ Ÿ(=
+%1java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+
+%0java.lang.Stringœ
+™
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaŸ Ÿ(>
+basejava.lang.String"__id*
+
+%1java.lang.String”
+‘
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.java   (%"
+constructedUrljava.lang.String"__id*
+""*
+5
+1*ê
+1]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.java¬ ¬("…
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.java¬ ¬($
+"
+constructedUrljava.lang.String:
+Urljava.lang.StringB/-
++com.opensymphony.oscache.web.TestOscacheJsp

@@ -1,0 +1,25 @@
+
+Icom.opensymphony.oscache.web.OscacheServlet#getScope(Ljava/lang/String;)Ih
+^C:\q\oscache-2.4.1\src\webapp\WEB-INF\classes\com\opensymphony\oscache\web\OscacheServlet.java{ {("3"1*·
+2h
+^C:\q\oscache-2.4.1\src\webapp\WEB-INF\classes\com\opensymphony\oscache\web\OscacheServlet.java} }("r
+h
+^C:\q\oscache-2.4.1\src\webapp\WEB-INF\classes\com\opensymphony\oscache\web\OscacheServlet.java} }(-
+""*¸
+3h
+^C:\q\oscache-2.4.1\src\webapp\WEB-INF\classes\com\opensymphony\oscache\web\OscacheServlet.java|  |(%ÑÅ
+h
+^C:\q\oscache-2.4.1\src\webapp\WEB-INF\classes\com\opensymphony\oscache\web\OscacheServlet.java|  |(A
+%0boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
+
+valuejava.lang.String*	
+session2$equalsIgnoreCase(Ljava/lang/String;)*
+2
+1*·
+1h
+^C:\q\oscache-2.4.1\src\webapp\WEB-INF\classes\com\opensymphony\oscache\web\OscacheServlet.java ("r
+h
+^C:\q\oscache-2.4.1\src\webapp\WEB-INF\classes\com\opensymphony\oscache\web\OscacheServlet.java (1
+"":
+valuejava.lang.StringB/-
++com.opensymphony.oscache.web.OscacheServlet

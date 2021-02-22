@@ -1,0 +1,47 @@
+
+ocom.opensymphony.oscache.general.TestGeneralCacheAdministrator#checkObj(Ljava/lang/String;IZ)Ljava/lang/Object;p
+dC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\general\TestGeneralCacheAdministrator.java± ±("10*¯
+8p
+dC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\general\TestGeneralCacheAdministrator.java· ·(6²
+¯
+p
+dC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\general\TestGeneralCacheAdministrator.java· ·(6
+contentjava.lang.Object"__id*
+
+%1java.lang.Object*
+1*“
+9p
+dC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\general\TestGeneralCacheAdministrator.java· ·(Œ
+‰
+p
+dC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\general\TestGeneralCacheAdministrator.java· ·(@
+%0:com.opensymphony.oscache.general.GeneralCacheAdministrator"__id*M*K@
+>com.opensymphony.oscache.general.TestGeneralCacheAdministrator"
+admin‡„
+p
+dC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\general\TestGeneralCacheAdministrator.java· ·(6
+%1java.lang.Object"ncom.opensymphony.oscache.general.GeneralCacheAdministrator#getFromCache(Ljava/lang/String;I)Ljava/lang/Object;*B
+@
+%0:com.opensymphony.oscache.general.GeneralCacheAdministrator*
+
+keyjava.lang.String*
+""2!getFromCache(Ljava/lang/String;I)*
+8*ž
+10p
+dC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\general\TestGeneralCacheAdministrator.java³ ³( 
+
+p
+dC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\general\TestGeneralCacheAdministrator.java³ ³(
+contentjava.lang.Object"__id*
+""*
+9*‰
+1p
+dC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\general\TestGeneralCacheAdministrator.javaÇ Ç("‘
+p
+dC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\general\TestGeneralCacheAdministrator.javaÇ Ç(
+
+contentjava.lang.Object:
+keyjava.lang.String:
+"":
+""BB@
+>com.opensymphony.oscache.general.TestGeneralCacheAdministrator

@@ -1,0 +1,44 @@
+
+[com.opensymphony.oscache.extra.CacheMapAccessEventListenerImpl#toString()Ljava/lang/String;i
+_C:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\CacheMapAccessEventListenerImpl.javal l("1*™	
+1i
+_C:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\CacheMapAccessEventListenerImpl.javam m(ª
+§
+i
+_C:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\CacheMapAccessEventListenerImpl.javam m()
+%0java.lang.String"__concat*
+Hit count = *
+""Ä
+Á
+i
+_C:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\CacheMapAccessEventListenerImpl.javam m(B
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+, stale hit count = ²
+¯
+i
+_C:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\CacheMapAccessEventListenerImpl.javam m(R
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+""Â
+¿
+i
+_C:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\CacheMapAccessEventListenerImpl.javam m(i
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+ and miss count = ²
+¯
+i
+_C:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\CacheMapAccessEventListenerImpl.javam m(u
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+"""…
+i
+_C:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\CacheMapAccessEventListenerImpl.javam m(w
+
+%4java.lang.StringBB@
+>com.opensymphony.oscache.extra.CacheMapAccessEventListenerImpl

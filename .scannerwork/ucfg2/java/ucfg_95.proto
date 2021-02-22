@@ -1,0 +1,95 @@
+
+›com.opensymphony.oscache.base.AbstractCacheAdministrator#setPersistenceListener(Lcom/opensymphony/oscache/base/Cache;)Lcom/opensymphony/oscache/base/Cache;e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java   (*"8*¶
+4e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java§ §(OÄÁ
+e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java§ §(O
+
+%7void"|com.opensymphony.oscache.base.Cache#setPersistenceListener(Lcom/opensymphony/oscache/base/persistence/PersistenceListener;)V*.
+,
+cache#com.opensymphony.oscache.base.Cache*E
+C
+%6=com.opensymphony.oscache.base.persistence.PersistenceListener2WsetPersistenceListener(Lcom/opensymphony/oscache/base/persistence/PersistenceListener;)*
+1*×
+5e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java¥6 ¥(_à
+Ý
+e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java¥ ¥(`T
+persistenceListener=com.opensymphony.oscache.base.persistence.PersistenceListener"__id*
+
+%4java.lang.Objectæ
+ã
+e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java§G §(M*
+%5$com.opensymphony.oscache.base.Config"__id*H*F:
+8com.opensymphony.oscache.base.AbstractCacheAdministrator"
+config™–
+e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java§) §(NC
+%6=com.opensymphony.oscache.base.persistence.PersistenceListener"®com.opensymphony.oscache.base.persistence.PersistenceListener#configure(Lcom/opensymphony/oscache/base/Config;)Lcom/opensymphony/oscache/base/persistence/PersistenceListener;*V
+T
+persistenceListener=com.opensymphony.oscache.base.persistence.PersistenceListener*,
+*
+%5$com.opensymphony.oscache.base.Config21configure(Lcom/opensymphony/oscache/base/Config;)*
+4*ö
+6e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java¤ ¤(>£
+ 
+e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java¤ ¤(>
+clazzjava.lang.Class"__id*
+
+%3java.lang.ClassÞÛ
+e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java¥L ¥(_
+%4java.lang.Object"/java.lang.Class#newInstance()Ljava/lang/Object;*
+
+clazzjava.lang.Class2newInstance()*
+5*ò
+7e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java¤ ¤(€
+ý
+e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java¤ ¤(=
+%3java.lang.Class"<java.lang.Class#forName(Ljava/lang/String;)Ljava/lang/Class;*"
+java.lang.Class**
+(
+persistenceClassnamejava.lang.String*
+6*è
+8e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java¡& ¡(,æ
+ã
+e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java¡& ¡(,*
+%0$com.opensymphony.oscache.base.Config"__id*H*F:
+8com.opensymphony.oscache.base.AbstractCacheAdministrator"
+config
+
+e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java¡9 ¡(N
+%1java.lang.String"__id*
+""ÃÀ
+e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java¡& ¡(O
+%2java.lang.String"Vcom.opensymphony.oscache.base.Config#getProperty(Ljava/lang/String;)Ljava/lang/String;*,
+*
+%0$com.opensymphony.oscache.base.Config*
+
+%1java.lang.String2getProperty(Ljava/lang/String;)´
+±
+e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java¡ ¡(P(
+persistenceClassnamejava.lang.String"__id*
+
+%2java.lang.String*
+7*„
+1e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java® ®("—
+e
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\AbstractCacheAdministrator.java® ®(.
+,
+cache#com.opensymphony.oscache.base.Cache:,
+cache#com.opensymphony.oscache.base.CacheB<:
+8com.opensymphony.oscache.base.AbstractCacheAdministrator

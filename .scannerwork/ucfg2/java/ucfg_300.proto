@@ -1,0 +1,16 @@
+
+mcom.opensymphony.oscache.plugins.diskpersistence.AbstractDiskPersistenceListener#getCachePath()Ljava/io/File;{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javaM M("1*˜
+1{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javaN N(ÿ
+ü
+{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javaN N(
+%0java.io.File"__id*c*aR
+Pcom.opensymphony.oscache.plugins.diskpersistence.AbstractDiskPersistenceListener"
+	cachePath"“
+{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javaN N(
+
+%0java.io.FileBTR
+Pcom.opensymphony.oscache.plugins.diskpersistence.AbstractDiskPersistenceListener

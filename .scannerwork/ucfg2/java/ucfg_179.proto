@@ -1,0 +1,62 @@
+
+`com.opensymphony.oscache.plugins.clustersupport.ClusterNotification#toString()Ljava/lang/String;n
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\ClusterNotification.javaP P("1*‰
+1n
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\ClusterNotification.javaQ Q(-©¦
+n
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\ClusterNotification.javaQ Q(+
+%0java.lang.StringBuffer"java.lang.StringBuffer»
+¸
+n
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\ClusterNotification.javaQ Q(-
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBuffer¸
+µ
+n
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\ClusterNotification.javaQ Q(.
+bufjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBuffer¤¡
+n
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\ClusterNotification.javaR R(
+%2java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+bufjava.lang.StringBuffer*	
+type=2append(Ljava/lang/String;)þû
+n
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\ClusterNotification.javaR R((
+%3java.lang.StringBuffer"8java.lang.StringBuffer#append(I)Ljava/lang/StringBuffer;*
+
+%2java.lang.StringBuffer*
+""2	append(I)¥¢
+n
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\ClusterNotification.javaR R(:
+%4java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+%3java.lang.StringBuffer*	
+, data=2append(Ljava/lang/String;)è
+å
+n
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\ClusterNotification.javaRB R(F
+%5java.io.Serializable"__id*Q*OE
+Ccom.opensymphony.oscache.plugins.clustersupport.ClusterNotification"
+data¶³
+n
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\ClusterNotification.javaR R(G
+%6java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/Object;)Ljava/lang/StringBuffer;*
+
+%4java.lang.StringBuffer*
+
+%5java.io.Serializable2append(Ljava/lang/Object;)íê
+n
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\ClusterNotification.javaT T(
+%7java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+bufjava.lang.StringBuffer2
+toString()"Š
+n
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\ClusterNotification.javaT T(
+
+%7java.lang.StringBGE
+Ccom.opensymphony.oscache.plugins.clustersupport.ClusterNotification

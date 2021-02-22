@@ -1,0 +1,215 @@
+
+Ecom.opensymphony.oscache.base.algorithm.TestAbstractCache#testMisc()Vk
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java¥ ¥("5*‡
+2k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java… …(Â‚
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java… …(,
+%24boolean"(java.util.Enumeration#hasMoreElements()Z*&
+$
+enumerationjava.util.Enumeration2hasMoreElements()*
+0
+1*°#
+3k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java¡ ¡(ìê
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java¡ ¡(J
+%11Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache"âcom.opensymphony.oscache.base.algorithm.TestAbstractCache#getCache()Lcom/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache;*=;
+9com.opensymphony.oscache.base.algorithm.TestAbstractCache2
+getCache()ÑÅ
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java¡ ¡(-
+%12boolean"acom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache#contains(Ljava/lang/Object;)Z*L
+J
+%11Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache*3
+1
+entry(com.opensymphony.oscache.base.CacheEntry2contains(Ljava/lang/Object;)µ
+≤
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java√+ √(2
+%13java.lang.String"__concat*
+
+KEYjava.lang.String*
+2À»
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java√  √(*/
+%14(com.opensymphony.oscache.base.CacheEntry"(com.opensymphony.oscache.base.CacheEntry≈
+¬
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java√ √(9
+%15"vcom.opensymphony.oscache.base.CacheEntry#<init>(Ljava/lang/String;Lcom/opensymphony/oscache/base/EntryRefreshPolicy;)V*1
+/
+%14(com.opensymphony.oscache.base.CacheEntry*
+
+%13java.lang.String*
+""›
+⁄
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java√ √(:2
+entry2(com.opensymphony.oscache.base.CacheEntry"__id*1
+/
+%14(com.opensymphony.oscache.base.CacheEntryπ
+∂
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaƒ ƒ($
+%16java.lang.String"__concat*
+
+CONTENTjava.lang.String*
+2∑¥
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaƒ ƒ(%
+%17void"Hcom.opensymphony.oscache.base.CacheEntry#setContent(Ljava/lang/Object;)V*3
+1
+entry(com.opensymphony.oscache.base.CacheEntry*
+
+%16java.lang.String2setContent(Ljava/lang/Object;)ìê
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java≈ ≈(J
+%18Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache"âcom.opensymphony.oscache.base.algorithm.TestAbstractCache#getCache()Lcom/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache;*=;
+9com.opensymphony.oscache.base.algorithm.TestAbstractCache2
+getCache()éã
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java≈ ≈(&
+%19java.lang.String"Ccom.opensymphony.oscache.base.CacheEntry#getKey()Ljava/lang/String;*4
+2
+entry2(com.opensymphony.oscache.base.CacheEntry2getKey()≤
+Ø
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java≈ ≈(/
+%20java.lang.Object"__mapSet*L
+J
+%18Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache*
+
+%19java.lang.String*4
+2
+entry2(com.opensymphony.oscache.base.CacheEntryìê
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java«" «(,J
+%21Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache"âcom.opensymphony.oscache.base.algorithm.TestAbstractCache#getCache()Lcom/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache;*=;
+9com.opensymphony.oscache.base.algorithm.TestAbstractCache2
+getCache()œÃ
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java«" «(7
+%22java.util.Enumeration"ecom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache#elements()Ljava/util/Enumeration;*L
+J
+%21Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache2
+elements()º
+π
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java« «(8$
+enumerationjava.util.Enumeration"__id*
+
+%22java.util.EnumerationÂ‚
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java» »(0
+%23boolean"(java.util.Enumeration#hasMoreElements()Z*&
+$
+enumerationjava.util.Enumeration2hasMoreElements()*
+2*Ω
+4k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaø ø(íè
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaø ø(I
+%9Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache"âcom.opensymphony.oscache.base.algorithm.TestAbstractCache#getCache()Lcom/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache;*=;
+9com.opensymphony.oscache.base.algorithm.TestAbstractCache2
+getCache()∞
+≠
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaø ø(&
+%10java.lang.Object"__mapSet*K
+I
+%9Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache*
+
+KEYjava.lang.String*3
+1
+entry(com.opensymphony.oscache.base.CacheEntry*
+3*¥
+5k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaµ µ(íè
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaµ µ(I
+%0Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache"âcom.opensymphony.oscache.base.algorithm.TestAbstractCache#getCache()Lcom/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache;*=;
+9com.opensymphony.oscache.base.algorithm.TestAbstractCache2
+getCache()’
+“
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaµ µ(
+
+%1void"
+__mapClear*K
+I
+%0Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCacheíè
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java∂ ∂(I
+%2Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache"âcom.opensymphony.oscache.base.algorithm.TestAbstractCache#getCache()Lcom/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache;*=;
+9com.opensymphony.oscache.base.algorithm.TestAbstractCache2
+getCache()•¢
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java∂ ∂((	
+%3int"Ocom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache#capacity()I*K
+I
+%2Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache2
+capacity()†
+ù
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java∏ ∏()
+KEYjava.lang.String"__id*
+testkeymisc§
+°
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaπ π(-
+CONTENTjava.lang.String"__id*
+testkeymisc «
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaª ª().
+%4(com.opensymphony.oscache.base.CacheEntry"(com.opensymphony.oscache.base.CacheEntry√
+¿
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaª ª(4
+%5"vcom.opensymphony.oscache.base.CacheEntry#<init>(Ljava/lang/String;Lcom/opensymphony/oscache/base/EntryRefreshPolicy;)V*0
+.
+%4(com.opensymphony.oscache.base.CacheEntry*
+
+KEYjava.lang.String*
+""€
+ÿ
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaª ª(51
+entry(com.opensymphony.oscache.base.CacheEntry"__id*0
+.
+%4(com.opensymphony.oscache.base.CacheEntry∫∑
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaº º(!
+
+%6void"Hcom.opensymphony.oscache.base.CacheEntry#setContent(Ljava/lang/Object;)V*3
+1
+entry(com.opensymphony.oscache.base.CacheEntry*
+
+CONTENTjava.lang.String2setContent(Ljava/lang/Object;)íè
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaæ æ(I
+%7Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache"âcom.opensymphony.oscache.base.algorithm.TestAbstractCache#getCache()Lcom/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache;*=;
+9com.opensymphony.oscache.base.algorithm.TestAbstractCache2
+getCache()Çˇ
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.javaæ æ(&
+%8boolean"acom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache#contains(Ljava/lang/Object;)Z*K
+I
+%7Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache*3
+1
+entry(com.opensymphony.oscache.base.CacheEntry2contains(Ljava/lang/Object;)*
+3
+4*ä
+0 "Ç
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java   (
+implicit return*Ô
+1k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java…. …(9˜Ù
+k
+_C:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\base\algorithm\TestAbstractCache.java…. …(G
+%25java.lang.Object"5java.util.Enumeration#nextElement()Ljava/lang/Object;*&
+$
+enumerationjava.util.Enumeration2nextElement()*
+2B=;
+9com.opensymphony.oscache.base.algorithm.TestAbstractCache

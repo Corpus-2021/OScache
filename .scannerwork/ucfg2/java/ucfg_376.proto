@@ -1,0 +1,20 @@
+
+Wcom.opensymphony.oscache.base.Cache#getFromCache(Ljava/lang/String;I)Ljava/lang/Object;P
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.javaÜ Ü("1*§
+1P
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.javaÝ Ý(áÞ
+P
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.javaÝ Ý(5
+%0java.lang.Object"icom.opensymphony.oscache.base.Cache#getFromCache(Ljava/lang/String;ILjava/lang/String;)Ljava/lang/Object;*'%
+#com.opensymphony.oscache.base.Cache*
+
+keyjava.lang.String*
+""*
+""23getFromCache(Ljava/lang/String;ILjava/lang/String;)"l
+P
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.javaÝ Ý(6
+
+%0java.lang.Object:
+keyjava.lang.String:
+""B'%
+#com.opensymphony.oscache.base.Cache

@@ -1,0 +1,22 @@
+
+{com.opensymphony.oscache.base.Cache#getPersistenceListener()Lcom/opensymphony/oscache/base/persistence/PersistenceListener;P
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.javaÛ Û(5"1*ó
+1P
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.javaÜ Ü(Ý
+Ú
+P
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.javaÜ Ü(I
+%0Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache"__id*5*3%
+#com.opensymphony.oscache.base.Cache"
+
+cacheMapŸœ
+P
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.javaÜ Ü(0C
+%1=com.opensymphony.oscache.base.persistence.PersistenceListener"›com.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache#getPersistenceListener()Lcom/opensymphony/oscache/base/persistence/PersistenceListener;*K
+I
+%0Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache2getPersistenceListener()"™
+P
+DC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\Cache.javaÜ Ü(1E
+C
+%1=com.opensymphony.oscache.base.persistence.PersistenceListenerB'%
+#com.opensymphony.oscache.base.Cache

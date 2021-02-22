@@ -1,0 +1,16 @@
+
+Zcom.opensymphony.oscache.web.filter.ResponseContent#getContentEncoding()Ljava/lang/String;^
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ResponseContent.java5 5($"1*±
+1^
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ResponseContent.java6 6(Ï
+Ì
+^
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ResponseContent.java6 6(
+%0java.lang.String"__id*L*J5
+3com.opensymphony.oscache.web.filter.ResponseContent"
+contentEncoding"z
+^
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ResponseContent.java6 6(
+
+%0java.lang.StringB75
+3com.opensymphony.oscache.web.filter.ResponseContent

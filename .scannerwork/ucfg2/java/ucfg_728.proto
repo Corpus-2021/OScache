@@ -1,0 +1,19 @@
+
+xcom.opensymphony.oscache.plugins.clustersupport.JMSBroadcastingListener#getInitialContext()Ljavax/naming/InitialContext;t
+hC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\JMSBroadcastingListener.java» »(."1*¡
+1t
+hC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\JMSBroadcastingListener.java¼ ¼(#¹¶
+t
+hC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\JMSBroadcastingListener.java¼ ¼(!!
+%0javax.naming.InitialContext"javax.naming.InitialContextË
+È
+t
+hC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\JMSBroadcastingListener.java¼ ¼(#
+%1"%javax.naming.InitialContext#<init>()V*#
+!
+%0javax.naming.InitialContext"›
+t
+hC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\clustersupport\JMSBroadcastingListener.java¼ ¼($#
+!
+%0javax.naming.InitialContextBKI
+Gcom.opensymphony.oscache.plugins.clustersupport.JMSBroadcastingListener

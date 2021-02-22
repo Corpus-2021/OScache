@@ -1,0 +1,21 @@
+
+Fcom.opensymphony.oscache.web.filter.ResponseContent#isContentGZiped()Z`
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ResponseContent.javaé é(""1*Š
+1`
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ResponseContent.javaê ê(Ñ
+Î
+`
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ResponseContent.javaê ê(,
+%0java.lang.String"__id*L*J5
+3com.opensymphony.oscache.web.filter.ResponseContent"
+contentEncodingâß
+`
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ResponseContent.javaê ê(-
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+gzip*
+
+%0java.lang.String2equals(Ljava/lang/Object;)"j
+`
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ResponseContent.javaê ê(.
+""B75
+3com.opensymphony.oscache.web.filter.ResponseContent

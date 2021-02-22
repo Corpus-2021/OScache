@@ -1,0 +1,47 @@
+
+ncom.opensymphony.oscache.web.TestOscacheJsp#invokeJSP(Ljava/lang/String;Ljava/lang/String;I)Ljava/lang/String;]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaÂ Â("7*Ë
+4]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaÈ È(""g
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaÈ È("
+""*’
+6]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaÅ Å(V¨
+¥
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaÆ Æ(#
+
+%3void"java.lang.Thread#sleep(J)V*"
+java.lang.Thread*
+""*
+4*³
+7]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaÅ Å(!È
+Å
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaÅ8 Å(I
+%0java.lang.String"__id*F*D-
++com.opensymphony.oscache.web.TestOscacheJsp"
+APPLICATION_SCOPE½
+º
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaÅ. Å(I
+%1java.lang.String"__concat*
+
+baseUrljava.lang.String*
+
+%0java.lang.String¾
+»
+]
+QC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\web\TestOscacheJsp.javaÅ. Å(T
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+
+URLparamjava.lang.String*
+6:
+baseUrljava.lang.String:
+URLparamjava.lang.String:
+""B/-
++com.opensymphony.oscache.web.TestOscacheJsp

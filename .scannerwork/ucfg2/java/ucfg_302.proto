@@ -1,0 +1,16 @@
+
+qcom.opensymphony.oscache.plugins.diskpersistence.AbstractDiskPersistenceListener#getContextTmpDir()Ljava/io/File;{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.java` `( "1*œ
+1{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javaa a(ƒ
+€
+{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javaa a(
+%0java.io.File"__id*g*eR
+Pcom.opensymphony.oscache.plugins.diskpersistence.AbstractDiskPersistenceListener"
+contextTmpDir"“
+{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javaa a(
+
+%0java.io.FileBTR
+Pcom.opensymphony.oscache.plugins.diskpersistence.AbstractDiskPersistenceListener

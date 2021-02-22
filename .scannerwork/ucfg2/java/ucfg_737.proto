@@ -1,0 +1,50 @@
+
+com.opensymphony.oscache.plugins.clustersupport.TestJMS10BroadcastingListener#getConfig()Lcom/opensymphony/oscache/base/Config;}
+sC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\plugins\clustersupport\TestJMS10BroadcastingListener.java+ +("1*Ê
+1}
+sC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\plugins\clustersupport\TestJMS10BroadcastingListener.java, ,($‘—
+}
+sC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\plugins\clustersupport\TestJMS10BroadcastingListener.java, ,("*
+%0$com.opensymphony.oscache.base.Config"$com.opensymphony.oscache.base.ConfigÊ
+„
+}
+sC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\plugins\clustersupport\TestJMS10BroadcastingListener.java, ,($
+%1".com.opensymphony.oscache.base.Config#<init>()V*,
+*
+%0$com.opensymphony.oscache.base.ConfigÊ
+„
+}
+sC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\plugins\clustersupport\TestJMS10BroadcastingListener.java, ,(%.
+config$com.opensymphony.oscache.base.Config"__id*,
+*
+%0$com.opensymphony.oscache.base.Configèå
+}
+sC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\plugins\clustersupport\TestJMS10BroadcastingListener.java4 4(a
+
+%2void"Ocom.opensymphony.oscache.base.Config#set(Ljava/lang/Object;Ljava/lang/Object;)V*0
+.
+config$com.opensymphony.oscache.base.Config*#!
+cache.cluster.jms.topic.factory*,*
+(java:comp/env/jms/TopicConnectionFactory2)set(Ljava/lang/Object;Ljava/lang/Object;)Çˇ
+}
+sC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\plugins\clustersupport\TestJMS10BroadcastingListener.java5 5(T
+
+%3void"Ocom.opensymphony.oscache.base.Config#set(Ljava/lang/Object;Ljava/lang/Object;)V*0
+.
+config$com.opensymphony.oscache.base.Config* 
+cache.cluster.jms.topic.name*" 
+java:comp/env/jms/OSCacheTopic2)set(Ljava/lang/Object;Ljava/lang/Object;)ÌÍ
+}
+sC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\plugins\clustersupport\TestJMS10BroadcastingListener.java6 6(?
+
+%4void"Ocom.opensymphony.oscache.base.Config#set(Ljava/lang/Object;Ljava/lang/Object;)V*0
+.
+config$com.opensymphony.oscache.base.Config*
+cache.cluster.jms.node.name*
+
+cacheNode12)set(Ljava/lang/Object;Ljava/lang/Object;)"±
+}
+sC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\plugins\clustersupport\TestJMS10BroadcastingListener.java8 8(0
+.
+config$com.opensymphony.oscache.base.ConfigBQO
+Mcom.opensymphony.oscache.plugins.clustersupport.TestJMS10BroadcastingListener

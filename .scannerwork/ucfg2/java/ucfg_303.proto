@@ -1,0 +1,34 @@
+
+scom.opensymphony.oscache.plugins.diskpersistence.AbstractDiskPersistenceListener#isGroupStored(Ljava/lang/String;)Z{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javak k( "5*ˆ
+3{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javao o(!"…
+{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javao o(!
+""*†
+4{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javam m(1²
+¯
+{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javam m(1
+filejava.io.File"__id*
+
+%0java.io.FileÉÆ
+{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javao o( 
+%1boolean"java.io.File#exists()Z*
+
+filejava.io.File2exists()*
+3*–
+5{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javam m()Ž
+‹
+{
+qC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\plugins\diskpersistence\AbstractDiskPersistenceListener.javam m(0
+%0java.io.File"„com.opensymphony.oscache.plugins.diskpersistence.AbstractDiskPersistenceListener#getCacheGroupFile(Ljava/lang/String;)Ljava/io/File;*TR
+Pcom.opensymphony.oscache.plugins.diskpersistence.AbstractDiskPersistenceListener*
+
+groupjava.lang.String*
+4:
+groupjava.lang.StringBTR
+Pcom.opensymphony.oscache.plugins.diskpersistence.AbstractDiskPersistenceListener

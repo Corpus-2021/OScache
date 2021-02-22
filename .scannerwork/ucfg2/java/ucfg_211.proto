@@ -1,0 +1,60 @@
+
+Pcom.opensymphony.oscache.base.algorithm.LRUCache#removeFirst()Ljava/lang/Object;]
+QC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\LRUCache.java‘ ‘("2*¿
+2]
+QC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\LRUCache.java’ ’(Ž
+‹
+]
+QC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\LRUCache.java’ ’(
+toRemovejava.lang.Object"__id*
+""Ä
+Á
+]
+QC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\LRUCache.java” ”(
+%0java.util.Collection"__id*>*<2
+0com.opensymphony.oscache.base.algorithm.LRUCache"
+list*
+1*Ï
+
+1]
+QC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\LRUCache.java• •(Ä
+Á
+]
+QC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\LRUCache.java• •(
+%1java.util.Collection"__id*>*<2
+0com.opensymphony.oscache.base.algorithm.LRUCache"
+listÛØ
+]
+QC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\LRUCache.java• •(&
+%2java.util.Iterator"3java.util.Collection#iterator()Ljava/util/Iterator;*
+
+%1java.util.Collection2
+iterator()ž
+›
+]
+QC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\LRUCache.java•	 •('
+itjava.util.Iterator"__id*
+
+%2java.util.IteratorËÈ
+]
+QC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\LRUCache.java– –(
+%3java.lang.Object"+java.util.Iterator#next()Ljava/lang/Object;*
+
+itjava.util.Iterator2next() 
+
+]
+QC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\LRUCache.java–	 –(
+toRemovejava.lang.Object"__id*
+
+%3java.lang.Object²¯
+]
+QC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\LRUCache.java—	 —(
+
+%4void"java.util.Iterator#remove()V*
+
+itjava.util.Iterator2remove()"
+]
+QC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\LRUCache.javaš š(
+
+toRemovejava.lang.ObjectB42
+0com.opensymphony.oscache.base.algorithm.LRUCache

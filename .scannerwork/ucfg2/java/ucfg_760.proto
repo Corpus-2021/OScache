@@ -1,0 +1,66 @@
+
+rcom.opensymphony.oscache.web.filter.ExpiresRefreshPolicy#needsRefresh(Lcom/opensymphony/oscache/base/CacheEntry;)Zc
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java, ,("6*À
+2c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java3@ 3(Eåâ
+c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java3@ 3(R
+%3java.lang.Object"Gcom.opensymphony.oscache.base.CacheEntry#getContent()Ljava/lang/Object;*3
+1
+entry(com.opensymphony.oscache.base.CacheEntry2getContent()–
+Õ
+c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java3 3(SF
+responseContent3com.opensymphony.oscache.web.filter.ResponseContent"__id*
+
+%3java.lang.Objectèå
+c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java4( 4(D
+
+%4long"Acom.opensymphony.oscache.web.filter.ResponseContent#getExpires()J*H
+F
+responseContent3com.opensymphony.oscache.web.filter.ResponseContent2getExpires()"m
+c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java4 4(E
+""*ˇ
+3c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java2 2(åâ
+c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java2 2(%
+%2java.lang.Object"Gcom.opensymphony.oscache.base.CacheEntry#getContent()Ljava/lang/Object;*3
+1
+entry(com.opensymphony.oscache.base.CacheEntry2getContent()*
+2
+1*◊
+4c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java1 1("m
+c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java1 1(
+""*Ë
+5c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java0% 0(6ıÚ
+c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java0; 0(P
+
+%1long"9com.opensymphony.oscache.base.CacheEntry#getLastUpdate()J*3
+1
+entry(com.opensymphony.oscache.base.CacheEntry2getLastUpdate()*
+3
+4*§
+6c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java.! .('±
+Æ
+c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java.! .(;
+
+%0long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+3
+5*◊
+1c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java6 6("m
+c
+YC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ExpiresRefreshPolicy.java6 6(
+"":1
+entry(com.opensymphony.oscache.base.CacheEntryB<:
+8com.opensymphony.oscache.web.filter.ExpiresRefreshPolicy

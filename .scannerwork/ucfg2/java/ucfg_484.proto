@@ -1,0 +1,46 @@
+
+Pcom.opensymphony.oscache.base.algorithm.FIFOCache#removeItem()Ljava/lang/Object;\
+RC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\FIFOCache.javaL L("1*»
+
+1\
+RC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\FIFOCache.javaM M(ƒ
+¡
+\
+RC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\FIFOCache.javaM M(
+%0java.util.Collection"__id*?*=3
+1com.opensymphony.oscache.base.algorithm.FIFOCache"
+list⁄◊
+\
+RC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\FIFOCache.javaM M(%
+%1java.util.Iterator"3java.util.Collection#iterator()Ljava/util/Iterator;*
+
+%0java.util.Collection2
+iterator()ù
+ö
+\
+RC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\FIFOCache.javaM M(&
+itjava.util.Iterator"__id*
+
+%1java.util.Iterator «
+\
+RC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\FIFOCache.javaN N(#
+%2java.lang.Object"+java.util.Iterator#next()Ljava/lang/Object;*
+
+itjava.util.Iterator2next()ü
+ú
+\
+RC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\FIFOCache.javaN N($
+toRemovejava.lang.Object"__id*
+
+%2java.lang.Object±Æ
+\
+RC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\FIFOCache.javaO O(
+
+%3void"java.util.Iterator#remove()V*
+
+itjava.util.Iterator2remove()"~
+\
+RC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\FIFOCache.javaQ Q(
+
+toRemovejava.lang.ObjectB53
+1com.opensymphony.oscache.base.algorithm.FIFOCache

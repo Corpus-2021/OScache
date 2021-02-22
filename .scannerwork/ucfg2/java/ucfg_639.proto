@@ -1,0 +1,25 @@
+
+hcom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache#getGroupsForReading()Ljava/util/Map;p
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\AbstractConcurrentReadCache.javaœ œ(+"2*Î
+2p
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\AbstractConcurrentReadCache.java– –(!Ó
+Î
+p
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\AbstractConcurrentReadCache.java– –(!
+%0java.lang.Boolean"__id*X*VE
+Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache"
+barrierLock*
+1*Ò
+1p
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\AbstractConcurrentReadCache.java— —(È
+Ê
+p
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\AbstractConcurrentReadCache.java— —(
+%1java.util.HashMap"__id*S*QE
+Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache"
+groups"ç
+p
+dC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\algorithm\AbstractConcurrentReadCache.java— —(
+
+%1java.util.HashMapBGE
+Ccom.opensymphony.oscache.base.algorithm.AbstractConcurrentReadCache

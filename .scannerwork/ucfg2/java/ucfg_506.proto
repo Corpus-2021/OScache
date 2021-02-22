@@ -1,0 +1,16 @@
+
+[com.opensymphony.oscache.web.filter.ResponseContent#getOutputStream()Ljava/io/OutputStream;^
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ResponseContent.javak k('"1*Á
+1^
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ResponseContent.javal l(Ñ
+Î
+^
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ResponseContent.javal l(#
+%0java.io.ByteArrayOutputStream"__id*A*?5
+3com.opensymphony.oscache.web.filter.ResponseContent"
+bout"‡
+^
+TC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\web\filter\ResponseContent.javal l(%
+#
+%0java.io.ByteArrayOutputStreamB75
+3com.opensymphony.oscache.web.filter.ResponseContent

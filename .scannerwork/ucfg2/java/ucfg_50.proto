@@ -1,0 +1,108 @@
+
+Rcom.opensymphony.oscache.extra.ScopeEventListenerImpl#toString()Ljava/lang/String;b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaá á("5*à
+3b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaã ã(É
+Ä
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaã+ ã(6
+%3$Array"__id*
+""£
+†
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaã+ ã(=
+%4java.lang.String"
+__arrayGet*
+
+%3$Array*
+""Ø
+¨
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaã  ã(=
+%5java.lang.String"__concat*
+
+scope *
+
+%4java.lang.String¨
+©
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaã  ã(E
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+ = ´
+®
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaã  ã(^
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+""´
+®
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaã  ã(e
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+, ∞≠
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaã ã(f
+%9java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*(
+&
+returnStringjava.lang.StringBuffer*
+
+%8java.lang.String2append(Ljava/lang/String;)*
+4*
+4b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaä ä(!
+}
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaä% ä(.	
+%2int"__id*
+""*
+3
+1*û
+5b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaà5 à(Gùö
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaà( à(4
+%0java.lang.StringBuffer"java.lang.StringBuffer◊
+‘
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaà$ à(H
+%1"2java.lang.StringBuffer#<init>(Ljava/lang/String;)V*
+
+%0java.lang.StringBuffer*
+Flush count for µ
+≤
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaà à(I&
+returnStringjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBuffer*
+4*ˇ
+1b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaè è(…∆
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaè è(4
+
+%10int" java.lang.StringBuffer#length()I*(
+&
+returnStringjava.lang.StringBuffer2length()⁄◊
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaè è(9
+%11void"$java.lang.StringBuffer#setLength(I)V*(
+&
+returnStringjava.lang.StringBuffer*
+""2setLength(I)ÎË
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaë ë(&
+%12java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*(
+&
+returnStringjava.lang.StringBuffer2
+toString()"
+b
+VC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\extra\ScopeEventListenerImpl.javaë ë('
+
+%12java.lang.StringB97
+5com.opensymphony.oscache.extra.ScopeEventListenerImpl

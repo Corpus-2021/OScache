@@ -1,0 +1,40 @@
+
+Ycom.opensymphony.oscache.hibernate.OSCache#toString(Ljava/lang/Object;)Ljava/lang/String;W
+KC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\hibernate\OSCache.java ("1*Í
+1W
+KC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\hibernate\OSCache.javaž ž(å
+â
+W
+KC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\hibernate\OSCache.javaž ž("
+%0java.lang.String">java.lang.String#valueOf(Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+
+keyjava.lang.ObjectŸ
+œ
+W
+KC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\hibernate\OSCache.javaž ž((
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+.º
+·
+W
+KC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\hibernate\OSCache.javaž+ ž(5
+%2java.lang.String"__id*>*<,
+*com.opensymphony.oscache.hibernate.OSCache"
+
+regionName²
+¯
+W
+KC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\hibernate\OSCache.javaž ž(5
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String"s
+W
+KC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\hibernate\OSCache.javaž ž(6
+
+%3java.lang.String:
+keyjava.lang.ObjectB.,
+*com.opensymphony.oscache.hibernate.OSCache

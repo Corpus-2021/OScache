@@ -1,0 +1,18 @@
+
+äcom.opensymphony.oscache.plugins.diskpersistence.TestHashDiskPersistenceListener$CacheFileFilter#accept(Ljava/io/File;Ljava/lang/String;)ZÇ
+vC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\plugins\diskpersistence\TestHashDiskPersistenceListener.javaÿ ÿ("1*®
+1Ç
+vC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\plugins\diskpersistence\TestHashDiskPersistenceListener.javaŸ Ÿ( çä
+Ç
+vC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\plugins\diskpersistence\TestHashDiskPersistenceListener.javaŸ Ÿ(-
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+__groups__*
+
+namejava.lang.String2equals(Ljava/lang/Object;)"ç
+Ç
+vC:\q\oscache-2.4.1\src\test\java\com\opensymphony\oscache\plugins\diskpersistence\TestHashDiskPersistenceListener.javaŸ Ÿ(.
+"":
+dirjava.io.File:
+namejava.lang.StringBdb
+`com.opensymphony.oscache.plugins.diskpersistence.TestHashDiskPersistenceListener$CacheFileFilter

@@ -1,0 +1,7 @@
+organization=unne-sonar-corpus
+projectKey=unne.sonar:oscache
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.485
+dashboardUrl=https://sonarcloud.io/dashboard?id=unne.sonar%3Aoscache
+ceTaskId=AWz6a4U2ECC74nIzXdt5
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWz6a4U2ECC74nIzXdt5

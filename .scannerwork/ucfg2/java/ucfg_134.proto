@@ -1,0 +1,23 @@
+
+mcom.opensymphony.oscache.general.GeneralCacheAdministrator#getFromCache(Ljava/lang/String;)Ljava/lang/Object;g
+[C:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\general\GeneralCacheAdministrator.javaƒ ƒ("1*
+1g
+[C:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\general\GeneralCacheAdministrator.java„ „(ÏÌ
+g
+[C:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\general\GeneralCacheAdministrator.java„ „()
+%0#com.opensymphony.oscache.base.Cache"jcom.opensymphony.oscache.general.GeneralCacheAdministrator#getCache()Lcom/opensymphony/oscache/base/Cache;*><
+:com.opensymphony.oscache.general.GeneralCacheAdministrator2
+getCache()ÆÃ
+g
+[C:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\general\GeneralCacheAdministrator.java„ „(+
+%1java.lang.Object"Vcom.opensymphony.oscache.base.Cache#getFromCache(Ljava/lang/String;)Ljava/lang/Object;*+
+)
+%0#com.opensymphony.oscache.base.Cache*
+
+keyjava.lang.String2 getFromCache(Ljava/lang/String;)"ƒ
+g
+[C:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\general\GeneralCacheAdministrator.java„ „(,
+
+%1java.lang.Object:
+keyjava.lang.StringB><
+:com.opensymphony.oscache.general.GeneralCacheAdministrator

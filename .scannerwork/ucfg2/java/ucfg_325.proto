@@ -1,0 +1,16 @@
+
+Mcom.opensymphony.oscache.base.events.CacheEvent#getOrigin()Ljava/lang/String;Z
+PC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\CacheEvent.java- -("1*˜
+1Z
+PC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\CacheEvent.java. .(¾
+»
+Z
+PC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\CacheEvent.java. .(
+%0java.lang.String"__id*?*=1
+/com.opensymphony.oscache.base.events.CacheEvent"
+origin"v
+Z
+PC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\CacheEvent.java. .(
+
+%0java.lang.StringB31
+/com.opensymphony.oscache.base.events.CacheEvent

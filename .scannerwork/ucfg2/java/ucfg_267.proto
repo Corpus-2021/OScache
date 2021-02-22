@@ -1,0 +1,85 @@
+
+3com.opensymphony.oscache.base.CacheEntry#getSize()IU
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaø ø("6*»
+2U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.java ("_
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.java (
+""*â
+3U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaÿ ÿ(³
+°
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaÿ' ÿ(.
+%8java.lang.Object"__id*9*7*
+(com.opensymphony.oscache.base.CacheEntry"	
+contentÊÇ
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaÿ ÿ(9	
+%9int">com.opensymphony.oscache.web.filter.ResponseContent#getSize()I*
+
+%8java.lang.Object2	getSize()*
+1*˜
+4U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaþ þ(³
+°
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaþ þ(
+%7java.lang.Object"__id*9*7*
+(com.opensymphony.oscache.base.CacheEntry"	
+content*
+2
+3*‡
+5U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaý ý(³
+°
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaý ý(
+%4java.lang.Object"__id*9*7*
+(com.opensymphony.oscache.base.CacheEntry"	
+contentÇÄ
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaý ý((
+%5java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+%4java.lang.Object2
+toString()¥¢
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaý ý(1	
+%6int"java.lang.String#length()I*
+
+%5java.lang.String2length()*
+1*º
+6U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaú ú(¯
+¬
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaú ú(
+%0java.lang.String"__id*5*3*
+(com.opensymphony.oscache.base.CacheEntry"
+key¥¢
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaú ú( 	
+%1int"java.lang.String#length()I*
+
+%0java.lang.String2length()³
+°
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaü ü(
+%2java.lang.Object"__id*9*7*
+(com.opensymphony.oscache.base.CacheEntry"	
+contentÅÂ
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaü ü(
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+%2java.lang.Object2
+getClass()*
+4
+5*»
+1U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.java… …("_
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.java… …(
+""B,*
+(com.opensymphony.oscache.base.CacheEntry

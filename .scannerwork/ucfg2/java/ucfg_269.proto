@@ -1,0 +1,55 @@
+
+9com.opensymphony.oscache.base.CacheEntry#needsRefresh(I)ZU
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaù ù("13*ÿ
+13U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaû û(s
+q
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.java° °(!
+
+%0byte"__id*
+""*
+7
+1*Ö
+4U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaØ* Ø(0£
+†
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaØ* Ø(D
+
+%4long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+1*Æ
+6U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.java¨ ¨(!“
+œ
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.java¨ ¨(!6
+%20com.opensymphony.oscache.base.EntryRefreshPolicy"__id*8*6*
+(com.opensymphony.oscache.base.CacheEntry"
+policy˜Ù
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.java¨ ¨(4
+%3boolean"jcom.opensymphony.oscache.base.EntryRefreshPolicy#needsRefresh(Lcom/opensymphony/oscache/base/CacheEntry;)Z*8
+6
+%20com.opensymphony.oscache.base.EntryRefreshPolicy*,*
+(com.opensymphony.oscache.base.CacheEntry28needsRefresh(Lcom/opensymphony/oscache/base/CacheEntry;)*
+1*∫
+7U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.java´ ´(“
+œ
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.java´ ´(6
+%10com.opensymphony.oscache.base.EntryRefreshPolicy"__id*8*6*
+(com.opensymphony.oscache.base.CacheEntry"
+policy*	
+4
+6
+1*ª
+1U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaµ µ("_
+U
+IC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\CacheEntry.javaµ µ(
+"":
+""B,*
+(com.opensymphony.oscache.base.CacheEntry

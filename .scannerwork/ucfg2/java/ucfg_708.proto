@@ -1,0 +1,16 @@
+
+scom.opensymphony.oscache.base.events.ScopeEvent#getEventType()Lcom/opensymphony/oscache/base/events/ScopeEventType;Z
+PC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\ScopeEvent.javaD D(&"1*â
+1Z
+PC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\ScopeEvent.javaE E(ä
+á
+Z
+PC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\ScopeEvent.javaE E(9
+%03com.opensymphony.oscache.base.events.ScopeEventType"__id*B*@1
+/com.opensymphony.oscache.base.events.ScopeEvent"
+	eventType"™
+Z
+PC:\q\oscache-2.4.1\src\java\com\opensymphony\oscache\base\events\ScopeEvent.javaE E(;
+9
+%03com.opensymphony.oscache.base.events.ScopeEventTypeB31
+/com.opensymphony.oscache.base.events.ScopeEvent
